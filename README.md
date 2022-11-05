@@ -1,6 +1,6 @@
 # Sustainability-Bot
 The repository of the famed Sustainability Bot
-/n
+
 Functionality:
 
 **Sustainability Tips!**
