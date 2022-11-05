@@ -3,7 +3,7 @@ The repository of the famed Sustainability Bot
 
 Functionality:
 
-_Sustainability_ _Tips!_
+*Sustainability* *Tips!*
 * Every week, a random piece of advice on how to be more enviroementally-conscious will be sent to you!
 
 * To immediately recieve a tip, type $tip
