@@ -1,9 +1,9 @@
 # Sustainability-Bot
 The repository of the famed Sustainability Bot
-
+/n
 Functionality:
 
-*Sustainability* *Tips!*
+**Sustainability Tips!**
 * Every week, a random piece of advice on how to be more enviroementally-conscious will be sent to you!
 
 * To immediately recieve a tip, type $tip
